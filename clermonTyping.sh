@@ -10,9 +10,9 @@
 # 4] Launch in silico PCR for obtaining phylogroup
 # 5] Generating reports
 #
-# Current "OLD" version : 24.02 (Fev. 2024)
+# Current "OLD" version: 24.02 (February 2024)
 # Dantas Lab Release: 1.0.0 (May 2025)
-version="Clermont Typing  Current Version : 1.0.0 (May 2025)"
+version="Clermont Typing v1.0.0 (May 2025)"
 
 # Original Contact: antoine.bridier-nahmias@inserm.fr
 # Current Contact for Dantas Lab Release: caelanjmiller@wustl.edu
